@@ -2,6 +2,8 @@
 
 `MonitorControl.exe`를 실행한 뒤 창 상단에서 제어할 모니터를 선택합니다.
 
+![삼성 모니터의 밝기와 볼륨을 Wi-Fi로 조절하는 Monitor Control 화면](docs/monitor-control.png)
+
 ### 삼성 ViewFinity S9에서 Wi-Fi로 연결
 
 1. PC와 모니터를 같은 로컬 네트워크에 연결합니다. 모니터에서 **설정 → 전체 설정 → 연결 → 네트워크 → 전문가 설정 → IP 리모컨**을 켭니다.
